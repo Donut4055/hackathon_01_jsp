@@ -8,6 +8,11 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
+<a href="${pageContext.request.contextPath}/students">bt1</a>
+<a href="${pageContext.request.contextPath}/products">bt2</a>
+<a href="${pageContext.request.contextPath}/bus">bt3</a>
 <a href="${pageContext.request.contextPath}/products-practice">bai tap thuc hanh</a>
+
+<%--link vid: https://www.youtube.com/watch?v=o67ocwkRSCA--%>
 </body>
 </html>
